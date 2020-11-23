@@ -1,0 +1,14 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "this is a developer profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "labiousPhetoane",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
